@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "bootstrap": "^5.2.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.1",
+    "nodemailer": "^6.8.0"
+  },
+  "name": "ambriz-construction",
+  "version": "1.0.0",
+  "description": "Ambriz Construction Website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Ambriz",
+  "license": "ISC"
+}
